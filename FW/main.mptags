@@ -1,0 +1,44 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.5.4	//
+!_TAG_REVISION_NAME	MCHPTags	//
+!_TAG_REVISION_VERSION	6.0.1	//
+Debug_serial	C:\Users\Juan Andres\SkyDrive\Documentos\Projects\Tesis Juela ECU\firmwareDspicC30\main.c	214;"	d	line:214	file:
+_ADCInterrupt	C:\Users\Juan Andres\SkyDrive\Documentos\Projects\Tesis Juela ECU\firmwareDspicC30\main.c	16;"	f	line:16	signature:(void)
+_INT2Interrupt	C:\Users\Juan Andres\SkyDrive\Documentos\Projects\Tesis Juela ECU\firmwareDspicC30\main.c	197;"	f	line:197	signature:(void)
+_T1Interrupt	C:\Users\Juan Andres\SkyDrive\Documentos\Projects\Tesis Juela ECU\firmwareDspicC30\main.c	53;"	f	line:53	signature:(void)
+_T2Interrupt	C:\Users\Juan Andres\SkyDrive\Documentos\Projects\Tesis Juela ECU\firmwareDspicC30\main.c	70;"	f	line:70	signature:(void)
+_T3Interrupt	C:\Users\Juan Andres\SkyDrive\Documentos\Projects\Tesis Juela ECU\firmwareDspicC30\main.c	100;"	f	line:100	signature:(void)
+_T4Interrupt	C:\Users\Juan Andres\SkyDrive\Documentos\Projects\Tesis Juela ECU\firmwareDspicC30\main.c	147;"	f	line:147	signature:(void)
+_T5Interrupt	C:\Users\Juan Andres\SkyDrive\Documentos\Projects\Tesis Juela ECU\firmwareDspicC30\main.c	163;"	f	line:163	signature:(void)
+_U1RXInterrupt	C:\Users\Juan Andres\SkyDrive\Documentos\Projects\Tesis Juela ECU\firmwareDspicC30\main.c	220;"	f	line:220	signature:(void)
+adc	C:\Users\Juan Andres\SkyDrive\Documentos\Projects\Tesis Juela ECU\firmwareDspicC30\main.c	11;"	v	line:11
+adc_m	C:\Users\Juan Andres\SkyDrive\Documentos\Projects\Tesis Juela ECU\firmwareDspicC30\main.c	69;"	v	line:69
+adc_n	C:\Users\Juan Andres\SkyDrive\Documentos\Projects\Tesis Juela ECU\firmwareDspicC30\main.c	12;"	v	line:12
+adc_sen	C:\Users\Juan Andres\SkyDrive\Documentos\Projects\Tesis Juela ECU\firmwareDspicC30\main.c	15;"	v	line:15
+adc_sen3_ant	C:\Users\Juan Andres\SkyDrive\Documentos\Projects\Tesis Juela ECU\firmwareDspicC30\main.c	160;"	v	line:160
+adc_vol	C:\Users\Juan Andres\SkyDrive\Documentos\Projects\Tesis Juela ECU\firmwareDspicC30\main.c	14;"	v	line:14
+debug_PICkit	C:\Users\Juan Andres\SkyDrive\Documentos\Projects\Tesis Juela ECU\firmwareDspicC30\main.c	225;"	f	line:225	signature:(void)
+dutty_tmr2	C:\Users\Juan Andres\SkyDrive\Documentos\Projects\Tesis Juela ECU\firmwareDspicC30\main.c	83;"	f	line:83	signature:(void)
+empezar_enriquesimiento	C:\Users\Juan Andres\SkyDrive\Documentos\Projects\Tesis Juela ECU\firmwareDspicC30\main.c	136;"	f	line:136	signature:(void)
+enriquesimiento	C:\Users\Juan Andres\SkyDrive\Documentos\Projects\Tesis Juela ECU\firmwareDspicC30\main.c	162;"	v	line:162
+enriquesimiento_i	C:\Users\Juan Andres\SkyDrive\Documentos\Projects\Tesis Juela ECU\firmwareDspicC30\main.c	99;"	v	line:99
+main	C:\Users\Juan Andres\SkyDrive\Documentos\Projects\Tesis Juela ECU\firmwareDspicC30\main.c	258;"	f	line:258	signature:(void)
+option	C:\Users\Juan Andres\SkyDrive\Documentos\Projects\Tesis Juela ECU\firmwareDspicC30\main.c	219;"	v	line:219
+ralenti	C:\Users\Juan Andres\SkyDrive\Documentos\Projects\Tesis Juela ECU\firmwareDspicC30\main.c	97;"	v	line:97
+taza	C:\Users\Juan Andres\SkyDrive\Documentos\Projects\Tesis Juela ECU\firmwareDspicC30\main.c	161;"	v	line:161
+tiempo_ms	C:\Users\Juan Andres\SkyDrive\Documentos\Projects\Tesis Juela ECU\firmwareDspicC30\main.c	50;"	v	line:50
+tiempo_tmr1_iny	C:\Users\Juan Andres\SkyDrive\Documentos\Projects\Tesis Juela ECU\firmwareDspicC30\main.c	63;"	f	line:63	signature:(float t)
+tiempo_tmr3_enr	C:\Users\Juan Andres\SkyDrive\Documentos\Projects\Tesis Juela ECU\firmwareDspicC30\main.c	133;"	f	line:133	signature:(float t)
+tiempo_tmr5_tps	C:\Users\Juan Andres\SkyDrive\Documentos\Projects\Tesis Juela ECU\firmwareDspicC30\main.c	192;"	f	line:192	signature:(float t)
+tmr1	C:\Users\Juan Andres\SkyDrive\Documentos\Projects\Tesis Juela ECU\firmwareDspicC30\main.c	52;"	v	line:52
+tmr2h	C:\Users\Juan Andres\SkyDrive\Documentos\Projects\Tesis Juela ECU\firmwareDspicC30\main.c	68;"	v	line:68
+tmr2l	C:\Users\Juan Andres\SkyDrive\Documentos\Projects\Tesis Juela ECU\firmwareDspicC30\main.c	67;"	v	line:67
+tmr3	C:\Users\Juan Andres\SkyDrive\Documentos\Projects\Tesis Juela ECU\firmwareDspicC30\main.c	95;"	v	line:95
+tmr3_100	C:\Users\Juan Andres\SkyDrive\Documentos\Projects\Tesis Juela ECU\firmwareDspicC30\main.c	96;"	v	line:96
+tmr3_enriquesimiento	C:\Users\Juan Andres\SkyDrive\Documentos\Projects\Tesis Juela ECU\firmwareDspicC30\main.c	98;"	v	line:98
+tmr5	C:\Users\Juan Andres\SkyDrive\Documentos\Projects\Tesis Juela ECU\firmwareDspicC30\main.c	159;"	v	line:159
+vol_val	C:\Users\Juan Andres\SkyDrive\Documentos\Projects\Tesis Juela ECU\firmwareDspicC30\main.c	43;"	f	line:43	signature:(void)

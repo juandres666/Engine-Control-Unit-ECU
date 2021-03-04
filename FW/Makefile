@@ -1,0 +1,23 @@
+# MPLAB IDE generated this makefile for use with GNU make.
+# Project: main.mcp
+# Date: Mon Apr 15 11:40:29 2013
+
+AS = pic30-as.exe
+CC = pic30-gcc.exe
+LD = pic30-ld.exe
+AR = pic30-ar.exe
+HX = pic30-bin2hex.exe
+RM = rm
+
+main.hex : main.cof
+	$(HX) "main.cof"
+
+main.cof : main.o
+	$(CC) -mcpu=30F4011 "main.o" -o"main.cof" -Wl,-L"C:\Program Files (x86)\Microchip\mplabc30\v3.31\lib",--script="..\..\..\..\Program Files (x86)\Microchip\mplabc30\v3.31\support\dsPIC30F\gld\p30F4011.gld",--defsym=__MPLAB_BUILD=1,--heap=128,-Map="main.map",--report-mem
+
+main.o : ../../../../program\ files\ (x86)/microchip/mplabc30/v3.31/include/stdarg.h ../../../../program\ files\ (x86)/microchip/mplabc30/v3.31/include/stddef.h ../../../../program\ files\ (x86)/microchip/mplabc30/v3.31/include/stdio.h ../../../../program\ files\ (x86)/microchip/mplabc30/v3.31/support/dsPIC30F/h/p30F4011.h ../../../../program\ files\ (x86)/microchip/mplabc30/v3.31/support/dsPIC30F/h/p30fxxxx.h ../../../../program\ files\ (x86)/microchip/mplabc30/v3.31/support/peripheral_30F_24H_33F/uart.h ../../../../program\ files\ (x86)/microchip/mplabc30/v3.31/support/dsPIC30F/h/p30F4011.h ../../../../program\ files\ (x86)/microchip/mplabc30/v3.31/support/dsPIC30F/h/p30fxxxx.h ../../../../program\ files\ (x86)/microchip/mplabc30/v3.31/support/peripheral_30F_24H_33F/timer.h ../../../../program\ files\ (x86)/microchip/mplabc30/v3.31/support/dsPIC30F/h/p30F4011.h ../../../../program\ files\ (x86)/microchip/mplabc30/v3.31/support/dsPIC30F/h/p30fxxxx.h ../../../../program\ files\ (x86)/microchip/mplabc30/v3.31/support/peripheral_30F_24H_33F/adc10.h ../../../../program\ files\ (x86)/microchip/mplabc30/v3.31/support/dsPIC30F/h/p30f4011.h main.c
+	$(CC) -mcpu=30F4011 -x c -c "main.c" -o"main.o" -g -Wall
+
+clean : 
+	$(RM) "main.o" "main.cof" "main.hex"
+
